@@ -1,0 +1,51 @@
+player_id,name,country,position,age,club,matches_played,minutes_played,goals,assists,expected_goals_xg,shots_on_target,passes_completed,pass_accuracy_pct,tackles_won,interceptions,yellow_cards,red_cards
+101,Kylian Mbappé,France,FW,27,Real Madrid,7,680,8,3,6.85,19,210,83.5,2,1,1,0
+102,Lionel Messi,Argentina,FW,39,Inter Miami,7,660,7,4,5.90,16,342,86.2,4,2,0,0
+103,Jude Bellingham,England,MF,23,Real Madrid,7,650,4,3,3.40,11,412,88.9,18,11,2,0
+104,Vinícius Júnior,Brazil,FW,26,Real Madrid,5,440,5,2,4.10,13,185,81.0,3,2,1,0
+105,Erling Haaland,Norway,FW,25,Manchester City,4,360,4,1,4.50,14,62,74.2,1,0,0,0
+106,Harry Kane,England,FW,32,Bayern Munich,7,620,5,2,4.80,12,198,80.1,5,3,1,0
+107,Bukayo Saka,England,FW,24,Arsenal,7,580,3,4,2.90,9,245,84.0,12,6,1,0
+108,Pedri,Spain,MF,23,Barcelona,6,520,1,5,1.80,5,510,91.4,14,8,0,0
+109,Lamine Yamal,Spain,FW,18,Barcelona,6,490,3,4,3.10,10,215,82.6,6,4,1,0
+110,Florian Wirtz,Germany,MF,23,Bayer Leverkusen,5,430,3,2,2.75,8,310,87.5,9,5,0,0
+111,Jamal Musiala,Germany,FW,23,Bayern Munich,5,420,3,3,3.20,11,230,85.1,7,3,1,0
+112,Federico Valverde,Uruguay,MF,27,Real Madrid,5,450,2,1,1.95,7,380,88.0,16,12,2,0
+113,Julian Alvarez,Argentina,FW,26,Atletico Madrid,7,540,4,2,3.85,12,175,82.0,11,5,1,0
+114,Rodri,Spain,MF,30,Manchester City,6,540,1,1,1.10,4,590,93.8,21,15,2,0
+115,Bruno Fernandes,Portugal,MF,31,Manchester United,5,450,2,3,2.40,8,395,81.5,13,7,2,0
+116,Rafael Leão,Portugal,FW,27,AC Milan,5,380,3,1,2.80,9,140,79.2,4,1,1,0
+117,Lautaro Martínez,Argentina,FW,28,Inter Milan,7,390,3,1,3.10,10,112,78.5,6,2,1,0
+118,Antoine Griezmann,France,MF,35,Atletico Madrid,7,590,2,4,2.30,7,380,85.6,15,10,0,0
+119,Aurélien Tchouaméni,France,MF,26,Real Madrid,7,610,1,0,0.85,3,485,90.2,24,18,2,0
+120,Achraf Hakimi,Morocco,DF,27,Paris Saint-Germain,5,450,1,2,1.20,4,295,83.4,19,14,1,0
+121,Alphonso Davies,Canada,DF,25,Bayern Munich,4,360,1,1,0.95,3,210,82.1,12,9,1,0
+122,Christian Pulisic,USA,FW,27,AC Milan,4,350,2,1,2.10,7,145,78.9,5,3,0,0
+123,Gio Reyna,USA,MF,23,Borussia Dortmund,4,280,1,2,1.15,4,180,84.2,6,4,0,0
+124,Moises Caicedo,Ecuador,MF,24,Chelsea,4,360,0,1,0.40,2,280,87.3,18,16,3,0
+125,Darwin Núñez,Uruguay,FW,27,Liverpool,5,410,3,1,3.90,11,88,71.0,4,2,2,0
+126,Victor Osimhen,Nigeria,FW,27,Galatasaray,4,360,3,0,3.45,12,65,72.5,2,1,1,0
+127,Takefusa Kubo,Japan,FW,25,Real Sociedad,4,320,1,2,1.60,5,165,80.5,7,5,0,0
+128,Kaoru Mitoma,Japan,FW,29,Brighton,4,310,2,1,1.90,6,130,77.8,8,4,1,0
+129,Son Heung-min,South Korea,FW,34,Tottenham,4,360,2,1,2.05,8,155,81.2,3,2,0,0
+130,Kim Min-jae,South Korea,DF,29,Bayern Munich,4,360,0,0,0.25,1,290,89.5,15,17,1,0
+131,William Saliba,France,DF,25,Arsenal,7,660,0,0,0.30,2,520,92.8,17,21,1,0
+132,Cristian Romero,Argentina,DF,28,Tottenham,7,630,1,0,0.75,3,440,88.4,22,19,3,0
+133,Declan Rice,England,MF,27,Arsenal,7,660,1,1,0.90,4,510,91.0,20,16,1,0
+134,Theo Hernández,France,DF,28,AC Milan,7,640,1,2,1.10,4,380,84.7,16,11,2,0
+135,Josko Gvardiol,Croatia,DF,24,Manchester City,5,450,1,0,0.80,3,390,87.9,14,15,1,0
+136,Luka Modrić,Croatia,MF,40,Real Madrid,5,390,1,2,1.15,3,360,89.1,10,6,1,0
+137,Alexis Mac Allister,Argentina,MF,27,Liverpool,7,580,2,2,2.10,6,430,87.6,17,12,2,0
+138,Enzo Fernández,Argentina,MF,25,Chelsea,7,610,1,3,1.65,5,490,88.2,19,13,2,0
+139,Nicoló Barella,Italy,MF,29,Inter Milan,4,350,1,1,1.25,4,290,86.0,11,8,1,0
+140,Alessandro Bastoni,Italy,DF,27,Inter Milan,4,360,0,1,0.40,1,320,90.1,12,14,0,0
+141,Cody Gakpo,Netherlands,FW,27,Liverpool,5,420,3,1,2.85,9,160,80.2,6,3,0,0
+142,Xavi Simons,Netherlands,MF,23,RB Leipzig,5,400,1,3,1.70,5,220,83.0,8,5,1,0
+143,Virgil van Dijk,Netherlands,DF,35,Liverpool,5,450,1,0,0.85,3,380,91.5,13,18,1,0
+144,Emiliano Martínez,Argentina,GK,33,Aston Villa,7,660,0,0,0.00,0,210,76.5,0,0,1,0
+145,Mike Maignan,France,GK,31,AC Milan,7,660,0,0,0.00,0,195,78.2,0,0,0,0
+146,Jordan Pickford,England,GK,32,Everton,7,660,0,0,0.00,0,230,68.4,0,0,0,0
+147,Unai Simón,Spain,GK,29,Athletic Bilbao,6,540,0,0,0.00,0,245,85.0,0,0,0,0
+148,Alisson Becker,Brazil,GK,33,Liverpool,5,450,0,0,0.00,0,170,82.0,0,0,0,0
+149,Yassine Bounou,Morocco,GK,35,Al Hilal,5,450,0,0,0.00,0,140,71.5,0,0,0,0
+150,Matt Turner,USA,GK,32,Crystal Palace,4,360,0,0,0.00,0,115,65.0,0,0,0,0

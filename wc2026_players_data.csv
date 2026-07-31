@@ -1,0 +1,201 @@
+player_id,name,country,position,age,club,matches_played,minutes_played,goals,assists,expected_goals_xg,shots_on_target,passes_completed,pass_accuracy_pct,tackles_won,interceptions,yellow_cards,red_cards
+1,Kylian Mbappe,France,FW,27,Real Madrid,7,640,10,4,8.45,24,210,84.2,3,1,1,0
+2,Lionel Messi,Argentina,FW,39,Inter Miami,7,660,8,4,6.80,18,340,86.5,2,0,0,0
+3,Jude Bellingham,England,MF,23,Real Madrid,7,630,7,1,5.20,12,385,88.4,14,8,2,0
+4,Erling Haaland,Norway,FW,26,Manchester City,5,450,7,0,6.10,16,65,74.1,1,0,0,0
+5,Ousmane Dembele,France,FW,29,Paris Saint-Germain,7,580,6,2,4.90,14,195,79.5,4,2,1,0
+6,Harry Kane,England,FW,33,Bayern Munich,7,620,6,1,5.60,13,180,81.0,5,3,1,0
+7,Mikel Oyarzabal,Spain,FW,29,Real Sociedad,7,510,5,1,4.10,11,160,82.3,6,4,0,0
+8,Ismaila Sarr,Senegal,FW,28,Crystal Palace,4,360,4,1,3.40,9,92,76.4,3,2,1,0
+9,Julian Quinones,Mexico,FW,29,Al-Qadsiah,4,330,4,1,3.20,8,88,78.0,2,1,0,0
+10,Vinicius Junior,Brazil,FW,26,Real Madrid,5,430,4,1,3.85,10,142,80.1,4,1,2,0
+11,Bukayo Saka,England,FW,24,Arsenal,6,490,3,3,2.90,8,175,83.7,8,5,0,0
+12,Deniz Undav,Germany,FW,30,VfB Stuttgart,4,210,3,2,2.40,7,54,77.5,1,1,0,0
+13,Johan Manzambi,Switzerland,MF,20,SC Freiburg,4,240,3,2,2.10,5,98,84.0,5,3,1,0
+14,Romelu Lukaku,Belgium,FW,33,Napoli,4,310,3,1,2.80,8,62,72.3,0,0,1,0
+15,Lautaro Martinez,Argentina,FW,28,Inter Milan,7,420,3,1,3.15,9,110,79.8,5,2,1,0
+16,Charles De Ketelaere,Belgium,FW,25,Atalanta,4,320,3,1,2.30,6,105,81.5,4,3,0,0
+17,Cody Gakpo,Netherlands,FW,27,Liverpool,5,410,3,1,2.65,7,128,82.1,3,2,0,0
+18,Bradley Barcola,France,FW,23,Paris Saint-Germain,6,390,3,1,2.50,8,115,83.0,3,1,0,0
+19,Brian Brobbey,Netherlands,FW,24,Ajax,4,220,3,0,2.10,6,48,75.0,2,0,1,0
+20,Elijah Just,New Zealand,MF,26,SK St. Pölten,3,270,3,0,1.90,5,112,80.2,4,2,0,0
+21,Matheus Cunha,Brazil,FW,27,Wolverhampton,4,290,3,0,2.40,7,85,78.9,4,3,1,0
+22,Folarin Balogun,USA,FW,25,AS Monaco,4,310,3,0,2.55,8,70,76.5,1,1,0,0
+23,Raul Jimenez,Mexico,FW,35,Fulham,4,310,3,0,2.35,7,64,74.8,2,2,0,0
+24,Kai Havertz,Germany,FW,27,Arsenal,4,340,3,0,2.70,7,102,81.2,6,4,1,0
+25,Yoane Wissa,DR Congo,FW,29,Brentford,4,360,3,0,2.45,8,78,77.1,3,2,0,0
+26,Ismael Saibari,Morocco,MF,25,PSV Eindhoven,5,370,3,0,2.25,6,145,85.3,7,4,1,0
+27,Jonathan David,Canada,FW,26,Lille,4,360,3,0,2.80,9,90,79.4,2,1,0,0
+28,Cristiano Ronaldo,Portugal,FW,41,Al-Nassr,5,420,3,0,3.10,11,95,83.2,0,0,1,0
+29,Crysencio Summerville,Netherlands,FW,24,West Ham,4,250,2,2,1.85,5,76,80.0,3,2,0,0
+30,Breel Embolo,Switzerland,FW,29,AS Monaco,5,410,2,2,2.20,6,82,76.8,4,2,1,0
+31,Leandro Trossard,Belgium,FW,31,Arsenal,4,330,2,2,1.95,5,115,84.1,4,2,0,0
+32,Soufiane Rahimi,Morocco,FW,30,Al Ain,4,210,2,1,1.60,4,58,78.2,2,1,0,0
+33,Nicolas Pepe,Ivory Coast,FW,31,Villarreal,4,240,2,1,1.75,5,69,79.5,3,2,0,0
+34,Pape Gueye,Senegal,MF,27,Villarreal,4,320,2,1,1.40,3,168,87.6,11,7,2,0
+35,Maxi Araujo,Uruguay,MF,26,Sporting CP,4,310,2,1,1.55,4,124,82.0,8,5,1,0
+36,Riyad Mahrez,Algeria,FW,35,Al-Ahli,4,340,2,1,1.80,5,142,83.9,2,1,0,0
+37,Ramin Rezaeian,Iran,DF,36,Esteglal,3,270,2,1,1.10,3,135,79.0,7,6,1,0
+38,Ruben Vargas,Switzerland,FW,27,Augsburg,5,310,2,1,1.65,5,94,81.3,4,3,0,0
+39,Ayase Ueda,Japan,FW,27,Feyenoord,4,280,2,1,1.90,6,52,75.4,1,1,0,0
+40,Mostafa Zico,Egypt,MF,29,ZED FC,4,330,2,1,1.50,4,118,82.5,6,4,1,0
+41,Malik Tillman,USA,MF,24,PSV Eindhoven,4,320,2,1,1.70,5,130,84.6,5,3,0,0
+42,Ermin Mahmic,Bosnia,MF,21,Sarajevo,2,120,2,0,1.10,3,45,81.0,3,2,0,0
+43,Habib Diarra,Senegal,MF,22,Strasbourg,3,180,2,0,1.35,4,84,85.2,6,4,1,0
+44,Marko Arnautovic,Austria,FW,37,Inter Milan,3,160,2,0,1.40,4,38,76.0,1,0,0,0
+45,Amad Diallo,Ivory Coast,FW,24,Manchester United,3,200,2,0,1.50,4,72,82.4,3,1,0,0
+46,Cyle Larin,Canada,FW,31,Mallorca,4,230,2,0,1.60,5,42,73.5,2,1,0,0
+47,Anthony Elanga,Sweden,FW,24,Nottingham Forest,3,210,2,0,1.45,4,55,78.6,2,1,0,0
+48,Mikel Merino,Spain,MF,30,Arsenal,6,380,2,0,1.80,5,210,87.0,12,8,1,0
+49,Daichi Kamada,Japan,MF,29,Crystal Palace,4,330,2,0,1.65,4,165,86.1,8,5,0,0
+50,Yasin Ayari,Sweden,MF,22,Brighton,4,310,2,0,1.40,3,142,84.9,7,4,1,0
+51,Michael Olise,France,MF,24,Bayern Munich,7,540,0,7,2.10,6,280,86.8,9,4,1,0
+52,Rodri,Spain,MF,30,Manchester City,7,650,1,1,1.25,4,580,92.4,18,14,2,0
+53,Aymeric Laporte,Spain,DF,32,Al-Nassr,7,630,0,0,0.40,1,490,91.8,11,12,1,0
+54,Pau Cubarsi,Spain,DF,19,Barcelona,6,540,0,0,0.25,1,420,93.1,10,11,0,0
+55,Marc Guehi,England,DF,26,Crystal Palace,7,610,0,0,0.35,2,395,89.5,14,15,2,0
+56,Leandro Paredes,Argentina,MF,32,AS Roma,6,480,1,1,0.90,3,360,88.7,15,10,3,0
+57,Bruno Guimaraes,Brazil,MF,28,Newcastle United,5,430,0,4,1.40,4,310,87.3,13,9,2,0
+58,Martin Odegaard,Norway,MF,27,Arsenal,5,450,0,4,1.85,5,340,88.5,8,4,0,0
+59,Brahim Diaz,Morocco,MF,26,Real Madrid,5,390,1,4,1.95,6,185,84.0,6,3,0,0
+60,Roberto Alvarado,Mexico,MF,27,Chivas,4,310,0,3,0.95,2,140,81.5,5,4,0,0
+61,Florian Wirtz,Germany,MF,23,Bayer Leverkusen,4,340,1,3,2.10,6,210,85.6,6,3,0,0
+62,Andreas Schjelderup,Norway,FW,22,Benfica,4,260,1,3,1.55,4,88,80.4,3,2,0,0
+63,Anthony Gordon,England,FW,25,Newcastle United,5,320,1,3,1.75,5,98,79.8,5,3,1,0
+64,Alexander Isak,Sweden,FW,26,Newcastle United,4,330,1,3,2.05,7,74,76.9,2,1,0,0
+65,Desire Doue,France,MF,21,Paris Saint-Germain,5,290,1,1,1.30,4,140,84.2,6,3,0,0
+66,Mohamed Salah,Egypt,FW,34,Liverpool,4,360,1,2,2.40,8,135,80.5,3,1,0,0
+67,Achraf Hakimi,Morocco,DF,27,Paris Saint-Germain,5,450,1,2,1.20,3,310,87.9,12,8,1,0
+68,Declan Rice,England,MF,27,Arsenal,7,640,1,1,1.15,3,485,90.1,19,13,1,0
+69,Ferran Torres,Spain,FW,26,Barcelona,5,280,1,1,1.60,5,92,82.0,3,2,0,0
+70,Luis Diaz,Colombia,FW,29,Liverpool,4,340,1,1,1.80,6,110,81.4,4,3,1,0
+71,Youri Tielemans,Belgium,MF,29,Aston Villa,4,330,1,1,1.10,3,245,86.5,8,5,1,0
+72,Dani Olmo,Spain,MF,28,Barcelona,5,310,1,1,1.50,5,180,85.0,5,4,0,0
+73,Alexis Mac Allister,Argentina,MF,27,Liverpool,7,590,1,1,1.35,4,410,88.2,16,11,2,0
+74,Alex Baena,Spain,MF,25,Villarreal,4,240,1,1,1.20,4,145,83.7,5,3,1,0
+75,Pedro Porro,Spain,DF,26,Tottenham,4,310,0,1,0.60,2,210,84.5,9,6,1,0
+76,Enzo Fernandez,Argentina,MF,25,Chelsea,7,610,1,1,1.40,4,460,89.0,17,10,2,0
+77,Marcus Rashford,England,FW,28,Manchester United,4,260,1,1,1.55,5,82,78.5,3,1,0,0
+78,Nicolas Raskin,Belgium,MF,25,Rangers,3,190,1,0,0.75,2,112,85.0,7,4,1,0
+79,Marc Cucurella,Spain,DF,28,Chelsea,6,500,0,1,0.40,1,340,88.1,14,9,2,0
+80,Patrick Berg,Norway,MF,28,Bodø/Glimt,4,320,0,2,0.65,1,230,87.4,10,7,0,0
+81,Denzel Dumfries,Netherlands,DF,30,Inter Milan,5,410,0,2,0.95,3,185,81.0,8,5,1,0
+82,Nathaniel Brown,Germany,DF,23,Eintracht Frankfurt,2,150,0,1,0.30,1,95,83.5,4,3,0,0
+83,Baris Alper Yilmaz,Turkey,FW,26,Galatasaray,4,300,1,0,1.30,4,78,75.8,5,3,1,0
+84,Daniel Munoz,Colombia,DF,30,Crystal Palace,4,360,1,0,0.85,2,165,82.4,11,8,1,0
+85,Joshua Kimmich,Germany,DF,31,Bayern Munich,4,360,0,2,0.70,2,320,90.2,10,6,0,0
+86,Dan Ndoye,Switzerland,FW,25,Bologna,4,290,1,0,1.25,4,84,79.2,4,2,0,0
+87,Emam Ashour,Egypt,MF,28,Al Ahly,4,280,1,0,1.10,3,142,83.0,6,4,1,0
+88,In-Beom Hwang,South Korea,MF,29,Feyenoord,3,270,0,1,0.50,1,195,86.8,7,5,0,0
+89,Azzedine Ounahi,Morocco,MF,26,Panathinaikos,5,330,0,1,0.80,2,225,87.1,8,4,0,0
+90,Lisandro Martinez,Argentina,DF,28,Manchester United,6,490,0,1,0.35,1,380,90.5,15,12,2,0
+91,Mousa Tamari,Jordan,FW,29,Montpellier,3,270,1,0,1.15,4,68,76.2,3,2,0,0
+92,Felix Nmecha,Germany,MF,25,Borussia Dortmund,3,180,0,1,0.55,1,110,85.5,5,3,0,0
+93,Houssem Aouar,Algeria,MF,28,Al-Ittihad,4,250,0,2,0.75,2,155,86.0,4,3,0,0
+94,Promise David,Canada,FW,24,Union SG,2,110,1,0,0.85,3,22,71.0,1,0,0,0
+95,Keito Nakamura,Japan,FW,26,Reims,3,190,1,0,1.05,3,54,78.0,2,1,0,0
+96,Alex Freeman,USA,DF,21,Orlando City,2,140,0,1,0.25,0,88,82.0,4,3,0,0
+97,Petar Sucic,Croatia,MF,22,Dinamo Zagreb,3,210,0,1,0.45,1,135,85.8,6,4,1,0
+98,Rafael Leao,Portugal,FW,27,AC Milan,4,280,1,0,1.40,5,88,80.1,2,1,0,0
+99,Sebastian Berhalter,USA,MF,25,Vancouver Whitecaps,3,170,0,1,0.35,1,105,84.0,5,3,0,0
+100,Chris Wood,New Zealand,FW,34,Nottingham Forest,3,250,1,0,1.20,4,35,69.5,1,1,0,0
+101,Pedri,Spain,MF,23,Barcelona,6,490,1,2,1.45,4,415,91.2,10,7,0,0
+102,Federico Valverde,Uruguay,MF,28,Real Madrid,4,360,1,1,1.30,5,260,88.0,11,8,1,0
+103,Nico Williams,Spain,FW,24,Athletic Bilbao,6,470,1,2,1.75,6,135,81.5,5,3,0,0
+104,Lamine Yamal,Spain,FW,19,Barcelona,7,580,2,4,3.10,11,210,83.4,7,4,1,0
+105,Eduardo Camavinga,France,MF,23,Real Madrid,6,420,0,1,0.65,2,310,89.6,14,10,2,0
+106,Aurelien Tchouameni,France,MF,26,Real Madrid,7,600,0,0,0.50,2,450,91.5,16,12,1,0
+107,William Saliba,France,DF,25,Arsenal,7,630,0,0,0.30,1,510,93.4,12,14,0,0
+108,Jules Kounde,France,DF,27,Barcelona,7,610,0,1,0.55,2,440,89.8,15,10,1,0
+109,Theo Hernandez,France,DF,28,AC Milan,7,630,1,1,1.05,3,380,86.5,13,8,2,0
+110,Mike Maignan,France,GK,31,AC Milan,7,630,0,0,0.00,0,195,81.0,0,0,0,0
+111,Emiliano Martinez,Argentina,DF,33,Aston Villa,7,660,0,0,0.00,0,210,78.5,0,0,1,0
+112,Cristian Romero,Argentina,DF,28,Tottenham,7,640,0,0,0.45,2,480,91.0,18,15,3,0
+113,Nahuel Molina,Argentina,DF,28,Atletico Madrid,6,490,0,1,0.50,1,310,85.2,11,7,1,0
+114,Rodrigo De Paul,Argentina,MF,32,Atletico Madrid,7,580,0,2,0.95,3,390,86.9,15,9,2,0
+115,Julian Alvarez,Argentina,FW,26,Atletico Madrid,7,520,2,2,2.80,8,145,82.0,6,4,0,0
+116,Jordan Pickford,England,GK,32,Everton,7,650,0,0,0.00,0,185,74.2,0,0,0,0
+117,Kyle Walker,England,DF,36,Manchester City,5,420,0,0,0.20,0,310,88.5,8,6,1,0
+118,John Stones,England,DF,32,Manchester City,6,510,0,0,0.35,1,440,93.0,9,10,0,0
+119,Kieran Trippier,England,DF,35,Newcastle United,4,310,0,1,0.40,1,220,83.8,7,5,1,0
+120,Phil Foden,England,FW,26,Manchester City,6,450,1,2,1.90,6,240,86.1,4,2,0,0
+121,Cole Palmer,England,FW,24,Chelsea,5,280,1,1,1.45,4,130,84.0,3,2,0,0
+122,Unai Simon,Spain,GK,29,Athletic Bilbao,7,660,0,0,0.00,0,225,83.0,0,0,0,0
+123,Dani Carvajal,Spain,DF,34,Real Madrid,6,520,0,1,0.45,1,360,87.4,12,8,2,0
+124,Robin Le Normand,Spain,DF,29,Atletico Madrid,6,480,0,0,0.30,1,390,90.1,10,11,2,0
+125,Fabian Ruiz,Spain,MF,30,Paris Saint-Germain,7,560,2,2,1.95,6,430,90.5,11,7,1,0
+126,Manuel Neuer,Germany,GK,40,Bayern Munich,4,360,0,0,0.00,0,150,85.0,0,0,0,0
+127,Antonio Rudiger,Germany,DF,33,Real Madrid,4,360,0,0,0.35,1,280,91.2,7,8,1,0
+128,Jonathan Tah,Germany,DF,30,Bayer Leverkusen,4,340,0,0,0.20,0,260,92.0,6,7,0,0
+129,Maximilian Mittelstädt,Germany,DF,29,VfB Stuttgart,4,310,0,1,0.40,1,195,84.1,8,5,1,0
+130,Robert Andrich,Germany,MF,31,Bayer Leverkusen,4,290,0,0,0.50,2,180,86.4,9,6,2,0
+131,Toni Kroos,Germany,MF,36,Retired,4,350,0,1,0.40,1,380,94.5,5,4,1,0
+132,Jamal Musiala,Germany,MF,23,Bayern Munich,4,330,2,0,2.05,6,170,86.0,4,3,0,0
+133,Ilkay Gündogan,Germany,MF,35,Galatasaray,4,310,0,1,0.85,2,210,88.9,4,2,0,0
+134,Bart Verbruggen,Netherlands,GK,23,Brighton,5,480,0,0,0.00,0,165,80.2,0,0,0,0
+135,Virgil van Dijk,Netherlands,DF,35,Liverpool,5,480,1,0,0.75,3,390,91.5,8,12,1,0
+136,Nathan Ake,Netherlands,DF,31,Manchester City,5,410,0,0,0.25,1,320,89.4,9,7,0,0
+137,Stefan de Vrij,Netherlands,DF,34,Inter Milan,5,450,0,0,0.30,1,360,92.1,7,9,0,0
+138,Tijjani Reijnders,Netherlands,MF,28,AC Milan,5,430,0,0,0.90,3,290,88.0,8,5,1,0
+139,Jerdy Schouten,Netherlands,MF,29,PSV Eindhoven,5,400,0,0,0.40,1,310,90.3,11,8,1,0
+140,Xavi Simons,Netherlands,MF,23,RB Leipzig,5,390,1,2,1.60,5,185,83.5,5,3,1,0
+141,Memphis Depay,Netherlands,FW,32,Corinthians,5,360,1,1,1.80,6,110,78.9,2,1,0,0
+142,Diogo Costa,Portugal,GK,26,FC Porto,5,480,0,0,0.00,0,140,79.0,0,0,0,0
+143,Ruben Dias,Portugal,DF,29,Manchester City,5,480,0,0,0.30,1,410,92.8,7,10,1,0
+144,Pepe,Portugal,DF,43,Retired,4,390,0,0,0.20,0,280,88.2,9,8,1,0
+145,Nuno Mendes,Portugal,DF,24,Paris Saint-Germain,5,420,0,0,0.45,1,260,86.0,10,6,1,0
+146,Joao Palhinha,Portugal,MF,31,Bayern Munich,5,380,0,0,0.40,2,240,85.1,16,11,2,0
+147,Vitinha,Portugal,MF,26,Paris Saint-Germain,5,430,0,0,0.80,2,360,91.0,9,6,0,0
+148,Bruno Fernandes,Portugal,MF,31,Manchester United,5,450,1,1,1.70,5,310,82.4,8,4,1,0
+149,Bernardo Silva,Portugal,MF,31,Manchester City,5,410,0,0,0.75,2,295,89.1,6,4,1,0
+150,Diogo Jota,Portugal,FW,29,Liverpool,4,210,0,0,0.95,3,45,77.0,2,1,0,0
+151,Alisson Becker,Brazil,GK,33,Liverpool,5,450,0,0,0.00,0,160,82.5,0,0,0,0
+152,Marquinhos,Brazil,DF,32,Paris Saint-Germain,5,450,0,0,0.25,1,380,92.0,8,9,0,0
+153,Eder Militao,Brazil,DF,28,Real Madrid,5,410,0,0,0.30,1,320,89.5,9,8,1,0
+154,Danilo,Brazil,DF,35,Juventus,5,430,0,0,0.20,0,310,87.0,11,7,1,0
+155,Wendell,Brazil,DF,33,FC Porto,4,290,0,0,0.30,1,180,83.2,7,4,1,0
+156,Joao Gomes,Brazil,MF,25,Wolverhampton,5,360,0,0,0.35,1,210,86.0,14,10,2,0
+157,Lucas Paqueta,Brazil,MF,28,West Ham,5,380,1,0,1.20,3,230,83.5,9,5,2,0
+158,Rodrygo,Brazil,FW,25,Real Madrid,5,390,1,0,1.65,5,150,84.2,4,2,0,0
+159,Endrick,Brazil,FW,20,Real Madrid,4,160,1,0,1.10,4,30,76.0,1,0,1,0
+160,Raphinha,Brazil,FW,29,Barcelona,5,370,0,0,1.15,4,125,80.8,5,3,1,0
+161,Sergio Rochet,Uruguay,GK,33,Internacional,5,450,0,0,0.00,0,130,75.0,0,0,1,0
+162,Jose Maria Gimenez,Uruguay,DF,31,Atletico Madrid,5,450,0,0,0.35,1,290,87.5,10,11,2,0
+163,Mathias Olivera,Uruguay,DF,29,Napoli,5,420,0,0,0.25,0,240,84.0,9,7,1,0
+164,Ronald Araujo,Uruguay,DF,27,Barcelona,4,310,0,0,0.20,0,210,88.0,7,6,1,0
+165,Nahitán Nández,Uruguay,MF,30,Al-Qadsiah,5,410,0,0,0.40,1,195,82.5,12,8,2,0
+166,Manuel Ugarte,Uruguay,MF,25,Manchester United,5,430,0,0,0.30,1,250,87.2,18,12,2,0
+167,Rodrigo Bentancur,Uruguay,MF,29,Tottenham,5,360,0,1,0.60,2,220,86.5,10,6,1,0
+168,Facundo Pellistri,Uruguay,FW,24,Panathinaikos,5,340,1,1,1.10,3,95,78.5,4,3,1,0
+169,Darwin Nunez,Uruguay,FW,27,Liverpool,5,380,2,1,2.90,9,70,72.0,3,1,1,0
+170,Camilo Vargas,Colombia,GK,37,Atlas,5,450,0,0,0.00,0,145,76.5,0,0,0,0
+171,Davinson Sanchez,Colombia,DF,30,Galatasaray,5,450,0,0,0.40,1,280,88.0,9,10,2,0
+172,Jhon Lucumi,Colombia,DF,28,Bologna,5,450,0,0,0.20,0,310,90.2,8,9,1,0
+173,Johan Mojica,Colombia,DF,33,Mallorca,5,410,0,0,0.35,1,210,81.5,8,5,1,0
+174,Jefferson Lerma,Colombia,MF,31,Crystal Palace,5,430,1,0,0.80,2,230,85.4,14,9,2,0
+175,Richard Rios,Colombia,MF,26,Palmeiras,5,400,1,0,0.95,3,210,84.0,11,7,1,0
+176,Jhon Arias,Colombia,MF,28,Fluminense,5,420,0,1,0.70,2,175,82.1,6,4,0,0
+177,James Rodriguez,Colombia,MF,35,Rayo Vallecano,5,390,1,6,1.40,4,260,86.8,4,2,0,0
+178,Jhon Cordoba,Colombia,FW,33,Krasnodar,5,330,2,1,2.15,7,55,71.5,3,2,1,0
+179,Matvey Safonov,Russia,GK,27,Paris Saint-Germain,3,270,0,0,0.00,0,85,79.0,0,0,0,0
+180,Igor Diveev,Russia,DF,26,CSKA Moscow,3,270,0,0,0.20,0,160,86.5,5,6,1,0
+181,Alexander Golovin,Russia,MF,30,AS Monaco,3,260,0,1,0.65,2,140,84.2,4,3,0,0
+182,Aleksei Miranchuk,Russia,MF,30,Atlanta United,3,220,1,0,0.85,3,110,83.0,3,2,0,0
+183,Fedor Chalov,Russia,FW,28,PAOK,3,190,0,0,0.70,2,40,74.5,1,1,0,0
+184,Dominik Livakovic,Croatia,GK,31,Fenerbahce,4,390,0,0,0.00,0,115,77.2,0,0,0,0
+185,Josko Gvardiol,Croatia,DF,24,Manchester City,4,390,0,0,0.40,1,310,89.5,8,9,1,0
+186,Josip Sutalo,Croatia,DF,26,Ajax,4,360,0,0,0.20,0,260,90.1,6,7,0,0
+187,Borna Sosa,Croatia,DF,28,Torino,4,310,0,0,0.30,1,180,82.0,5,4,0,0
+188,Luka Modric,Croatia,MF,40,Real Madrid,4,340,0,1,0.60,2,290,90.8,6,4,0,0
+189,Mateo Kovacic,Croatia,MF,32,Manchester City,4,330,0,0,0.45,1,270,91.4,9,6,1,0
+190,Marcelo Brozovic,Croatia,MF,33,Al-Nassr,4,360,0,0,0.35,1,310,89.0,11,8,1,0
+191,Andrej Kramaric,Croatia,FW,35,Hoffenheim,4,290,1,0,1.20,4,85,80.5,2,1,0,0
+192,Ante Budimir,Croatia,FW,35,Osasuna,4,210,0,0,0.80,3,35,70.0,1,1,0,0
+193,Jan Oblak,Slovenia,GK,33,Atletico Madrid,4,390,0,0,0.00,0,95,74.0,0,0,0,0
+194,Jaka Bijol,Slovenia,DF,27,Udinese,4,390,0,0,0.30,1,210,86.2,8,10,1,0
+195,Zan Karnicnik,Slovenia,DF,31,Celje,4,390,1,0,0.50,2,165,81.0,9,6,1,0
+196,Adam Gnezda Cerin,Slovenia,MF,27,Panathinaikos,4,380,0,0,0.35,1,190,85.0,10,7,1,0
+197,Timi Max Elsnik,Slovenia,MF,28,Red Star Belgrade,4,370,0,1,0.45,1,175,83.8,8,5,0,0
+198,Benjamin Sesko,Slovenia,FW,23,RB Leipzig,4,360,2,0,2.10,7,65,73.5,2,1,0,0
+199,Andraz Sporar,Slovenia,FW,32,Panathinaikos,4,220,0,0,0.60,2,40,72.0,1,1,0,0
+200,Matz Sels,Belgium,GK,34,Nottingham Forest,4,360,0,0,0.00,0,110,76.0,0,0,0,0

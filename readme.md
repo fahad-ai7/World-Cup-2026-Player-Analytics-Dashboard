@@ -74,5 +74,15 @@ Developed by:
 
 Install requirements:
 
+## Dashboard Preview
+
+### Goal Contributions
+![Goal Contributions](1_avg_goal_contributions.png)
+
+### Goals vs Assists
+![Goals vs Assists](5_goals_vs_assists.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](6_correlation_heatmap.png)
 
 
